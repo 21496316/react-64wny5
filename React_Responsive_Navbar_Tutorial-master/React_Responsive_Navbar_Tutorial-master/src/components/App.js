@@ -1,12 +1,12 @@
-import React from "react";
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
-import Navbar from "./Navbar/Navbar";
-import Home from "./pages/Home";
-import Demo from "./pages/Demo";
-import KeyFeatures from "./pages/KeyFeatures";
-import Pricing from "./pages/Pricing";
-import Testimonials from "./pages/Testimonials";
-import "./App.css";
+import React from 'react';
+import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+import Navbar from './Navbar/Navbar';
+import Home from './pages/Home';
+import Demo from './pages/Demo';
+import KeyFeatures from './pages/KeyFeatures';
+import Pricing from './pages/Pricing';
+import Testimonials from './pages/Testimonials';
+import './App.css';
 
 function App() {
   return (
